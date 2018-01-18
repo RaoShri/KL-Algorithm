@@ -6,3 +6,7 @@ The file named KL_ISC works on a netlist of ISCA85 format. It needs input in tht
 For example 
 
 >> python KL_ISC.py c17.isc
+
+The .isc files can be obtained from http://www.pld.ttu.ee/~maksim/benchmarks/iscas85/isc/
+
+
