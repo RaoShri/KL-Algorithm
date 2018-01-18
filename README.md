@@ -9,4 +9,4 @@ For example
 
 The .isc files can be obtained from http://www.pld.ttu.ee/~maksim/benchmarks/iscas85/isc/
 
-
+Thank you Aalok for helping with the conversion of netlist to adjacency matrix
